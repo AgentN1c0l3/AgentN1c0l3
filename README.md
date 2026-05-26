@@ -30,7 +30,7 @@
 
   <h3 style="font-weight: bold; color:#048ba8;">> About Me</h3>
 
-  Security Researcher with a focus on Web Application Penetration Testing and Cloud Security Assessments.
+  Security Researcher with a focus on Web Application Penetration Testing and identifying security weaknesses across cloud and containerized infrastructures.
 
   My main areas of interest include:
 
@@ -38,12 +38,11 @@
   - Cloud Security
   - Kubernetes Security
   - Docker & Container Security
-  - Authentication & Session Security
-  - API Security
+
 
   <hr>
 
-  Currently researching web exploitation techniques, cloud attack paths, container security boundaries, and Kubernetes misconfigurations.
+
 
   <blockquote>
     <i style="color:#16db93">
