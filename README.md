@@ -1,8 +1,6 @@
-
-
 <!-- Header -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=72C7E1&height=100&section=header">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2dc653&height=100&section=header">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?size=25&duration=3500&color=86D3EB&center=true&height=50&lines=Web+Application+Security;Cloud+Security;Kubernetes+Security;Docker+Security;Offensive+Security+Research" alt="Typing" />
@@ -66,14 +64,14 @@
 <!-- Certifications -->
 
 <h2 align="center">
-  <samp style="color:#72C7E1">> Certifications</samp>
+  <samp style="color:#40916c">> Certifications</samp>
 </h2>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/CAWASP-Altered%20Security-72C7E1?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/CARTP-Altered%20Security-72C7E1?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/ARTE-HackTricks-72C7E1?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/CAWASP-Altered%20Security-6c757d?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/CARTP-Altered%20Security-40916c?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/ARTE-HackTricks-6c757d?style=for-the-badge&logoColor=white"/>
 
 </p>
 
@@ -96,4 +94,4 @@
 
 <!-- Footer -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=72C7E1&height=100&section=footer">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2dc653&height=100&section=footer">
