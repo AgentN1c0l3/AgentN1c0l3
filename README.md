@@ -7,14 +7,22 @@
 </p>
 
 <h2 align="center">
-  <b><samp style="color:#048ba8">Application Security • Cloud Security • Container Security</samp></b>
+  <b>
+    <samp style="color:#048ba8">
+      Application Security • Cloud Security • Container Security
+    </samp>
+  </b>
 </h2>
 
 <br>
 
 <p align="center">
   <a href="https://github.com/AgentN1c0l3">
-    <b><samp style="color:#0a2472">Welcome To The Dark Side</samp></b>
+    <b>
+      <samp style="color:#0a2472">
+        Welcome To The Dark Side
+      </samp>
+    </b>
   </a>
 </p>
 
@@ -24,41 +32,46 @@
 
 <div align="center">
   <table>
-  <tr>
+    <tr>
 
-  <td width="60%">
+      <td width="60%">
 
-  <h3 style="font-weight: bold; color:#048ba8;">> About Me</h3>
+<h3 style="font-weight: bold; color:#048ba8;">> About Me</h3>
 
-  Security Researcher with a focus on Web Application Penetration Testing and identifying security weaknesses across cloud and containerized infrastructures.
+Security Researcher with a focus on Web Application Penetration Testing and Cloud Security Assessments.
 
-  My main areas of interest include:
+My main areas of interest include:
 
-  - Web Application Security
-  - Cloud Security
-  - Kubernetes Security
-  - Docker & Container Security
+- Web Application Security
+- Cloud Security
+- Kubernetes Security
+- Docker & Container Security
+- Authentication & Session Security
+- API Security
 
+<hr>
 
-  <hr>
+Focused on Web Application Penetration Testing and identifying security weaknesses across cloud and containerized infrastructures.
 
+<blockquote>
+  <i style="color:#16db93">
+    "The quieter you become, the more you are able to hear."
+  </i>
+</blockquote>
 
+      </td>
 
-  <blockquote>
-    <i style="color:#16db93">
-      "The quieter you become, the more you are able to hear."
-    </i>
-  </blockquote>
+      <td width="40%" align="center" valign="middle">
 
-  <br>
+<img 
+  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG56cmdwemd6OXFvZWdzZWhydWV1c2g0MzlqcGEybzl5NXhlN2VhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif"
+  width="100%"
+  style="border-radius:12px;"
+/>
 
-  </td>
+      </td>
 
-  <td width="40%" align="center">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG56cmdwemd6OXFvZWdzZWhydWV1c2g0MzlqcGEybzl5NXhlN2VhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" height="320"/>
-  </td>
-
-  </tr>
+    </tr>
   </table>
 </div>
 
@@ -72,17 +85,36 @@
   <samp style="color:#048ba8">> Certifications</samp>
 </h2>
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/CAWASP-Altered%20Security-0a2472?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/CARTP-Altered%20Security-048ba8?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/ARTE-HackTricks-16db93?style=for-the-badge&logoColor=white"/>
+<ul style="list-style-type:none; padding:0;">
 
-</p>
+<li>
+  <b style="color:#16db93;">CAWASP</b>
+  <span style="color:#6c757d;"> — Altered Security</span>
+</li>
+
+<br>
+
+<li>
+  <b style="color:#048ba8;">CARTP</b>
+  <span style="color:#6c757d;"> — Altered Security</span>
+</li>
+
+<br>
+
+<li>
+  <b style="color:#2dc653;">ARTE</b>
+  <span style="color:#6c757d;"> — HackTricks</span>
+</li>
+
+</ul>
+
+</div>
 
 <br><br>
 
-<!-- Skills -->
+<!-- Tech Stack -->
 
 <h2 align="center">
   <samp style="color:#048ba8">> Tech Stack</samp>
